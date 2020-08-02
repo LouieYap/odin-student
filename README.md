@@ -1,0 +1,2 @@
+# odin-student
+student odin
