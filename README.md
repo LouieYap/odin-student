@@ -5,3 +5,5 @@ f1 edit
 feature 2
 edit check changes
 func func func func
+test
+feature1
